@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Gdscript (python lol), Lua, C and C++
 - 💞️ I’m looking to collaborate on something i found interesting
 - 📫 How to reach me: Discord, X (Twitter), Facebook, YouTube. @Dynacato or @dynacato for all.
-- 😄 Pronouns: She/Her/Any
+- 😄 Pronouns: Any/whatever
 - ⚡ Fun fact: I'm also a retired 2d artist and a bad 3d one.
 
 <!---
